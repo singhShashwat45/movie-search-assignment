@@ -1,3 +1,7 @@
+# Shashwat Singh
+### CSE
+### 221000055
+
 # Movie Semantic Search Assignment
 
 This repository contains a solution for a semantic search assignment on movie plots. It allows you to search for movies based on plot similarity using **Sentence Transformers**.
